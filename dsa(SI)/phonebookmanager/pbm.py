@@ -10,7 +10,7 @@ class PhoneBookManager:
         self.master.title("Phone Book Manager")
         
         self.contacts = {}
-        self.file_path = "CS:/Users/Shubham/Downloads/contacts.csv"  # Update file path here
+        self.file_path = r"C:\Users\Shubham\Downloads\contacts.csv"  # Updated file path here
         
         self.load_contacts()
         
