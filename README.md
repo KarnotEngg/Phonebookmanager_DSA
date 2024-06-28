@@ -1,0 +1,1 @@
+When downloading the project for execution the path of the csv file needs to be updated in the 13th line of code in phonebookmanager -> pbm.py file (also specified in the comment) for it to work properly.
